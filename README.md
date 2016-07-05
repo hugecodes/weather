@@ -16,4 +16,4 @@ npm i && npm start
 
 You can then go to [http://localhost:3000]() to see it running.
 
-🚨 If you don't know what this section means, don't worry. You'll know when you're done with Huge Codes. 🚨
+> 🚨 If you don't know what this section means, don't worry. You'll know when you're done with Huge Codes. 🚨
